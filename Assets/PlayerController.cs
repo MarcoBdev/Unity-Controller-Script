@@ -24,8 +24,6 @@ public class PlayerController : MonoBehaviour
             rb.velocity = Vector3.up * JumpForce;
         }
     }
-
-
-
+    
 }
 
